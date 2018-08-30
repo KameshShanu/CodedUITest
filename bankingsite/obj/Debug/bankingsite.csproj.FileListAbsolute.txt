@@ -1,0 +1,2 @@
+D:\Framwork_new\WebApplication\bankingsite\obj\Debug\bankingsite.csprojAssemblyReference.cache
+D:\Framwork_new\WebApplication\bankingsite\obj\Debug\bankingsite.csproj.CoreCompileInputs.cache

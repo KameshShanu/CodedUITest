@@ -1,0 +1,6 @@
+D:\Framwork_new\WebApplication\CodedUITestProject1\bin\Debug\CodedUITestProject1.dll
+D:\Framwork_new\WebApplication\CodedUITestProject1\bin\Debug\CodedUITestProject1.pdb
+D:\Framwork_new\WebApplication\CodedUITestProject1\obj\Debug\CodedUITestProject1.csprojAssemblyReference.cache
+D:\Framwork_new\WebApplication\CodedUITestProject1\obj\Debug\CodedUITestProject1.csproj.CoreCompileInputs.cache
+D:\Framwork_new\WebApplication\CodedUITestProject1\obj\Debug\CodedUITestProject1.dll
+D:\Framwork_new\WebApplication\CodedUITestProject1\obj\Debug\CodedUITestProject1.pdb
